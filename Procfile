@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit runneural_style/main.py
